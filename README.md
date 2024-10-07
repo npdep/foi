@@ -63,8 +63,3 @@ path/to/dir/test.txt
 
 Execution Time: 0.005753 sec
 ```
-
-
-# License
-
-MIT
